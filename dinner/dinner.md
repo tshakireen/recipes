@@ -10,6 +10,7 @@ Tasty biryani
 * Onions
 
 #Direction
+* Cook chicken for 10 mins
 
 
 #Direction
