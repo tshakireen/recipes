@@ -12,6 +12,10 @@ A filling and nutritious breakfast with a Mexican flair
 * 1 C shredded cheddar
 * Tortillas if you insist
 * Seasonings to taste
+* Add more direction
+* 
+
+
 
 ## Directions
 
